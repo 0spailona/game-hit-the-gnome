@@ -8,7 +8,8 @@
     "start": "webpack serve --mode development",
     "babel": "babel src -d dist",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "test": "echo I have no tests yet"
   },
   "repository": {
     "type": "git",
